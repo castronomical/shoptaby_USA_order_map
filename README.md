@@ -5,7 +5,7 @@ Shop Taby is a women's fashion brand championing size inclusivity founded in 201
 
 
 ### Business Task:
-Create a visualization of Shop Taby's USA orders. Include top shipping locations by City and State, as well as Top International Locations.
+Create a visualization of Shop Taby's USA orders. Include top shipping destinations by City and State, as well as top International destinations.
 
 
 ### Summary

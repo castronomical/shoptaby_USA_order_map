@@ -1,7 +1,7 @@
 ## Shop Taby USA Order Map
 This is a heatmap visualization I created for a business I'm a co-owner of: [Shop Taby](https://shoptaby.com/) 
 
-Shop Taby is a women's fashion brand championing size inclusivity founded in 2019. Lifetime revenue exceeds $720k. 
+Shop Taby is a women's fashion brand championing size inclusivity founded in 2019. 
 
 
 ### Business Task:
